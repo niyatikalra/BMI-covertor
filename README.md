@@ -1,2 +1,7 @@
 # BMI-covertor
-BMI Converter with JavaScript and ChatGPT for CSS Integration This repository contains a BMI (Body Mass Index) converter developed using JavaScript for functionality and ChatGPT for seamless CSS integration and design enhancement in a web-based application.
+BMI Converter with JavaScript. This repository contains a BMI (Body Mass Index) converter developed using JavaScript for functionality.
+
+# Technologies Used:
+JavaScript: Used for BMI calculation and logic implementation.
+
+HTML/CSS: Basic structure and styling of the web application.
