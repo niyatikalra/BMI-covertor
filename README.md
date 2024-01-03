@@ -1,4 +1,4 @@
-# BMI-covertor
+# BMI-convertor
 BMI Converter with JavaScript. This repository contains a BMI (Body Mass Index) converter developed using JavaScript for functionality.
 
 # Technologies Used:
